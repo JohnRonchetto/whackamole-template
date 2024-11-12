@@ -20,6 +20,7 @@ def draw_grid(screen):
             (640, i),
         )
 
+# ....
 
 def main():
     try:
